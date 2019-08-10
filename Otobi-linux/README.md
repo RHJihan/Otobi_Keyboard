@@ -1,7 +1,7 @@
 To use <b>Otobi Layout</b> in Linux Distribution OS, follow the following procedures.<br>
 You can use IBus (SCIM) or XKB to enable Otobi layout. But <i>Remenber that you cannot produce a Bengali ligature like (Ya-Phala) in XKB.</i>
 You have to use IBus (SCIM) for this kind of feature.<br>
-The reference operating system is Ubuntu19.04.
+The reference operating system is Ubuntu19.04.<br>
 
 <h3>IBus (SCIM)</h3>
 First perform:<br>
@@ -30,4 +30,5 @@ Or you can copy from Home folder by this command:<br>
 You might have to restart your system to effect changes.<br>
 Then enable বাংলা from:<br>
 <code>Settings > Region & Language > Add an Input Source > Bangla</code><br>
-This will work as Otobi layout. But you cannot use some ligatures such as Ya-Phala, Ra-Phala, Reph. Use Show keyboard Layout to examine the layout.<br>
+This will work as Otobi layout. But you cannot use some ligatures such as Ya-Phala, Ra-Phala, Reph. Use Show keyboard Layout to examine the layout.<br><br>
+For detail information, <a href="https://otobi.000webhostapp.com/data/Linux.tar.xz" title="PDF">download this compressed archive (Linux.tar.xz)</a>.
