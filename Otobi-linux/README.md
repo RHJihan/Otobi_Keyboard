@@ -31,4 +31,4 @@ You might have to restart your system to effect changes.<br>
 Then enable বাংলা from:<br>
 <code>Settings > Region & Language > Add an Input Source > Bangla</code><br>
 This will work as Otobi layout. But you cannot use some ligatures such as Ya-Phala, Ra-Phala, Reph. Use Show keyboard Layout to examine the layout.<br><br>
-For detail information, <a href="https://otobi.000webhostapp.com/data/Linux.tar.xz" title="PDF">download this compressed archive (Linux.tar.xz)</a>.
+For detail information, <a href="https://otobi.000webhostapp.com/data/Linux.tar.xz" title="Archive">download this compressed archive (Linux.tar.xz)</a>.
