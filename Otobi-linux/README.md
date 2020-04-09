@@ -22,7 +22,7 @@ This will work as Otobi layout.<br><br>
 Copy the bangla and evdev.xml file to these folder respectively:<br>
 <code>/usr/share/X11/xkb/symbols/</code><br>
 <code>/usr/share/X11/xkb/rules/</code><br>
-To do is as root user open Files as:<br>
+To do it as root user open Files as:<br>
 <code>sudo nautilus</code><br>
 Or you can copy from Home folder by this command:<br>
 <code>sudo cp -r /home/USERNAME/bangla /usr/share/X11/xkb/symbols/</code><br>
