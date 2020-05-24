@@ -10,7 +10,7 @@ The android APK is a modified version of Ridmik Keyboard for Otobi layout.<br>
 <li><a href="https://github.com/RHJihan/Otobi_Keyboard/releases/download/v1.0.3.40/otobi_keyboard.apk" title="Ridmik">&nbsp;Otobi Keyboard (Android)</a></li>
 <li><a href="https://otobi.000webhostapp.com/data/Avro-Otobi.zip" title="Otobi for Avro Keyboard">&nbsp;Otobi (Bijoy-like) Layout for Avro Keyboard</a></li>
 <li><a href="https://otobi.000webhostapp.com/data/otobi.ttf" title="Font Download">&nbsp;Otobi font (Ture Type)</a></li>
-<li><a href="https://otobi.000webhostapp.com/data/Linux.tar.xz" title="Linux Keyboard">&nbsp;Bangla Keyboard: Linux Distribution OS</a></li>
+<li><a href="https://drive.google.com/open?id=1m127iF4xyvSlrhM-DXVshb4JWGeP6bbd" title="Linux Keyboard">&nbsp;Bangla Keyboard: Linux Distribution OS</a></li>
 </ul>
 <p>Layout preview:<br></p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Otobi_Keyboard_Layout.svg" height="100%" width="100%" align="left" alt="otobi"><br>
