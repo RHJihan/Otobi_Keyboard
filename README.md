@@ -13,6 +13,6 @@ The android APK is a modified version of Ridmik Keyboard for Otobi layout.<br>
 <li><a href="https://drive.google.com/open?id=1m127iF4xyvSlrhM-DXVshb4JWGeP6bbd" title="Linux Keyboard">&nbsp;Bangla Keyboard: Linux Distribution OS</a></li>
 </ul>
 <p>Layout preview:<br></p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Otobi_Keyboard_Layout.svg" height="100%" width="100%" align="left" alt="otobi"><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/KB-Bengali-Otobi.svg" height="100%" width="100%" align="left" alt="otobi"><br>
 <p><strong><br>More at <a href="http://otobi.comli.com/">Otobi Website</a></strong><br></p>
 <p>Otobi Layout by <a href="https://www.facebook.com/RHJihan">Jihan</a>.<br></p>
