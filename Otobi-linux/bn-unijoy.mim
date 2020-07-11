@@ -133,7 +133,7 @@
 
   ((A-D) "ঈ")	;; BENGALI LETTER II
   ((A-S) "ঊ")	;; BENGALI LETTER UU
-  ((A-G) "‍্")	;; NON JOINER HALANTA
+  ((A-G) "্‌")	;; NON JOINER HALANTA
   ((A-|) "|")	;; BAR
 
   ((A-X) "ঔ")	;; BENGALI LETTER AU
@@ -155,6 +155,7 @@
   ("C" (delete @-) "ঐ") ;; BENGALI LETTER AI
   ("x" (delete @-) "ও") ;; BENGALI LETTER O
   ("X" (delete @-) "ঔ") ;; BENGALI LETTER AU
+  ("g" (delete @-) "্‌") ;; NON JOINER HALANTA
   ("G" (delete @-) "॥") ;; DEVANAGARI DOUBLE DAND
   ))
 
