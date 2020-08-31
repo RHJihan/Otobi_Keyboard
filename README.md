@@ -15,5 +15,5 @@ The android APK is a modified version of Ridmik Keyboard for Otobi layout.<br>
 <p>Layout preview:<br></p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/KB-Bengali-Otobi.svg" height="100%" width="100%" align="left" alt="otobi"><br>
 <p><strong><br>More at <a href="http://otobi.comli.com/">Otobi Website</a></strong><br></p>
-<p>Otobi Layout by <a href="https://www.facebook.com/RHJihan">Jihan</a>.<br></p>
+<p>Otobi Layout by <a href="https://rhjihan.github.io/">Jihan</a>.<br></p>
 
