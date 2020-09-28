@@ -23,7 +23,7 @@
     <Row
         latin:keyLabelFlags="fontNormal"
         latin:keyWidth="8.182%p" >
-        <include latin:keyboardLayout="@xml/rowkeys_bengali_akkhor1" />
+        <include latin:keyboardLayout="@xml/rowkeys_bengali_otobi1" />
         <Key
             latin:keyStyle="deleteKeyStyle"
             latin:keyWidth="fillRight" />
@@ -31,7 +31,7 @@
     <Row
         latin:keyLabelFlags="fontNormal"
         latin:keyWidth="8.182%p" >
-        <include latin:keyboardLayout="@xml/rowkeys_bengali_akkhor2" />
+        <include latin:keyboardLayout="@xml/rowkeys_bengali_otobi2" />
         <Key
             latin:keyStyle="enterKeyStyle"
             latin:keyWidth="fillRight" />
@@ -43,7 +43,7 @@
             latin:keyStyle="shiftKeyStyle"
             latin:keyWidth="10.0%p" />
 
-        <include latin:keyboardLayout="@xml/rowkeys_bengali_akkhor3" />
+        <include latin:keyboardLayout="@xml/rowkeys_bengali_otobi3" />
         <include latin:keyboardLayout="@xml/keys_exclamation_question" />
     </Row>
     <include latin:keyboardLayout="@xml/row_qwerty4" />

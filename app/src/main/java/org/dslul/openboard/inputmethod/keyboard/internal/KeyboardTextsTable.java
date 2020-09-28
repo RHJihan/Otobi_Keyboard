@@ -624,7 +624,7 @@ public final class KeyboardTextsTable {
         /* keyspec_right_single_angle_quote */ "\u203A|\u2039",
         // U+060C: "،" ARABIC COMMA
         /* keyspec_comma */ "\u060C",
-        /* morekeys_tablet_comma */ "!fixedColumnOrder!4,:,!,\u061F,\u061B,-,\",\'",
+        /* morekeys_tablet_comma */ "!fixedColumnOrder!4,:,!,\u061F,\u061B,-,\",'",
         // U+0651: "ّ" ARABIC SHADDA
         /* keyhintlabel_period */ "\u0651",
         // U+00BF: "¿" INVERTED QUESTION MARK
@@ -3590,7 +3590,7 @@ public final class KeyboardTextsTable {
         /* single_quotes ~ */
         null, null, null, null, null, null, null,
         /* ~ morekeys_l */
-        /* morekeys_g */ "g\'",
+        /* morekeys_g */ "g'",
     };
 
     /* Locale ta_IN: Tamil (India) */

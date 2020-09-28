@@ -22,21 +22,21 @@
     <include latin:keyboardLayout="@xml/key_styles_common" />
     <Row
         latin:keyLabelFlags="fontNormal"
-        latin:keyWidth="9.091%p" >
-        <include latin:keyboardLayout="@xml/rowkeys_bengali_akkhor1" />
+        latin:keyWidth="10%p" >
+        <include latin:keyboardLayout="@xml/rowkeys_bengali_otobi1" />
     </Row>
     <Row
         latin:keyLabelFlags="fontNormal"
-        latin:keyWidth="9.091%p" >
-        <include latin:keyboardLayout="@xml/rowkeys_bengali_akkhor2" />
+        latin:keyWidth="10%p" >
+        <include latin:keyboardLayout="@xml/rowkeys_bengali_otobi2" />
     </Row>
     <Row
         latin:keyLabelFlags="fontNormal"
-        latin:keyWidth="8.711%p" >
+        latin:keyWidth="10%p" >
         <Key
             latin:keyStyle="shiftKeyStyle"
-            latin:keyWidth="10.8%p" />
-        <include latin:keyboardLayout="@xml/rowkeys_bengali_akkhor3" />
+            latin:keyWidth="15%p" />
+        <include latin:keyboardLayout="@xml/rowkeys_bengali_otobi3" />
         <Key
             latin:keyStyle="deleteKeyStyle"
             latin:keyWidth="fillRight" />
